@@ -1,5 +1,3 @@
-!pip install -q -U faiss-cpu sentence-transformers groq
-
 import os
 import json
 from typing import Any
